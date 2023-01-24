@@ -9,7 +9,7 @@ i- Budget - Budgets of different schools based on the school type.
 ii- Math scores - The school data can be analyzed based on schools with math per school, passing math, spending for math score, math scores split in 9 10 11 12 grades, Average of the math score, school passing math.
 iii. - Reading scores -  The school data can be analyzed based on schools with reading per school, passing reading, spending for reading score, reading scores split in 9 10 11 12 grades, Average of the reading score, school passing reading.
 iv.- The Top 5 and bottom 5 performing schools
-v.- 
+v.- The overall percentage rating of both the scores as well as overall passing.
 
 Draws two correct conclusions or comparisons from the calculations (10 points)
 
